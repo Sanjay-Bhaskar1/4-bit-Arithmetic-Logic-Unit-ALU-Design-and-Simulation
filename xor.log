@@ -1,0 +1,11 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\Transferred from system\LT Spice all\xor.asc
+Start Time: Mon Oct 28 15:31:16 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.575 seconds.
+

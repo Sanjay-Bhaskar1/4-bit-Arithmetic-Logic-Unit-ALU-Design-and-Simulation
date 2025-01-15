@@ -1,0 +1,36 @@
+Version 4
+SymbolType BLOCK
+LINE Normal 0 -64 -48 -64
+LINE Normal -48 64 0 64
+LINE Normal 128 0 71 0
+LINE Normal -50 -32 -128 -32
+LINE Normal -112 -16 -48 -16
+LINE Normal -144 0 -48 0
+LINE Normal -129 16 -49 16
+LINE Normal 0 -96 0 -64
+LINE Normal 0 64 0 96
+ARC Normal -80 -64 -48 64 -64 64 -64 -64
+ARC Normal -64 -64 -32 64 -48 64 -48 -64
+ARC Normal -80 -64 71 64 0 64 0 -64
+TEXT -18 -2 Left 2 4i_xor
+PIN 0 96 TOP 8
+PINATTR PinName Gnd
+PINATTR SpiceOrder 1
+PIN 0 -96 BOTTOM 8
+PINATTR PinName Vdd
+PINATTR SpiceOrder 2
+PIN -128 -32 RIGHT 8
+PINATTR PinName A
+PINATTR SpiceOrder 3
+PIN -112 -16 RIGHT 8
+PINATTR PinName B
+PINATTR SpiceOrder 4
+PIN -144 0 RIGHT 8
+PINATTR PinName C
+PINATTR SpiceOrder 5
+PIN -128 16 RIGHT 8
+PINATTR PinName D
+PINATTR SpiceOrder 6
+PIN 128 0 LEFT 8
+PINATTR PinName Y
+PINATTR SpiceOrder 7

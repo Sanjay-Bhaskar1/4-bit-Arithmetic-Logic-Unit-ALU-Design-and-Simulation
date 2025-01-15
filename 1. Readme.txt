@@ -1,0 +1,12 @@
+Hello
+This document is to route people to exact file which they exactly need to check.
+
+1. Final_Overall is the file for overall design.
+2. Final_Overall_test is the file to test the overall circuit.
+3. ALU is the file to check the ALU.
+4. ALU_Select is the file to check from which ALU output is coming.
+4. ALU_*operation* is the files for operation run inside the ALU.
+ (Eg: ALU_ADD, ALU_SUB)
+5. 2_4_Decoder is the decoder used to select the operaion in Overall       design to which ALU should perform.
+6. 4:1_MUX is the multiplexer pulls out the output from ALU and given to the storage units.
+7. D_Latch is the storage unit used in this project.
