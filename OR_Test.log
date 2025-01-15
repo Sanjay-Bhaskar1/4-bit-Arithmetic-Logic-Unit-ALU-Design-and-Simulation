@@ -1,0 +1,13 @@
+LTspice 24.0.12 for Windows
+Circuit: * D:\Transferred from system\LT Spice all\OR_Test.asc
+Start Time: Wed Nov 20 12:11:49 2024
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+Direct Newton iteration for .op point succeeded.
+Ignoring empty pin current: Ix(x1:gnd)
+Ignoring empty pin current: Ix(x1:gnd)
+Total elapsed time: 0.433 seconds.
+
